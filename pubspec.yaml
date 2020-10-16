@@ -1,0 +1,32 @@
+name: keepmypass
+description: KeepMyPass offers security and convenience for saving passwords
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.1+6
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^4.1.3
+  sqflite: ^1.3.1
+  flutter_colorpicker: ^0.3.4
+  font_awesome_flutter: ^8.8.1
+  crypto: ^2.1.5
+  encrypt: ^4.0.3
+  url_launcher: ^5.7.1
+  package_info: ^0.4.3
+  shared_preferences: ^0.5.12
+  firebase_admob: ^0.9.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/
