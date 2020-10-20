@@ -3,7 +3,7 @@
 KeepMyPass is a password manager which is written with cross platform mobile development framework Flutter using dart language.
 
 You can build from source files or you can install from Google Play Store
-[![](https://github.com/gokhanbas83/keepmypass/master/assets/google-play-badge.png?raw=true =161x62)](https://play.google.com/store/apps/details?id=com.gknbs.keepmypass)
+[![](https://github.com/gokhanbas83/keepmypass/master/assets/google-play-badge.png?raw=true)](https://play.google.com/store/apps/details?id=com.gknbs.keepmypass)
 
 Website : [https://www.gknbs.com/keepmypass](https://www.gknbs.com/keepmypass)
 
@@ -44,5 +44,3 @@ There is no usage limitation in KeepMyPass application. Users can use all featur
 - Spanish
 - French
 - Portuguese
-
-###End
