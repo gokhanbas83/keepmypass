@@ -1,6 +1,6 @@
 # KeepMyPass
 
-KeepMyPass is a password manager which is written with cross platform mobile development framework Flutter using dart language.
+KeepMyPass is a password manager which is written with cross platform mobile application development framework Flutter using dart language.
 
 You can build from source files or you can install from Google Play Store
 
