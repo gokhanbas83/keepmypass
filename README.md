@@ -4,6 +4,7 @@ KeepMyPass is a password manager which is written with cross platform mobile dev
 
 You can build from source files or you can install from Google Play Store
 [![](https://github.com/gokhanbas83/keepmypass/blob/master/assets/google-play-badge.png?raw=true | width=161)](https://play.google.com/store/apps/details?id=com.gknbs.keepmypass)
+<a href="https://play.google.com/store/apps/details?id=com.gknbs.keepmypass"><img src="https://github.com/gokhanbas83/keepmypass/blob/master/assets/google-play-badge.png?raw=true" alt="Download KeepMyPass" width="161" height="62"></a>
 
 Website : [https://www.gknbs.com/keepmypass](https://www.gknbs.com/keepmypass)
 
