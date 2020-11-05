@@ -8,10 +8,12 @@ You can build from source files or you can install from Google Play Store
 
 Website : [https://www.gknbs.com](https://www.gknbs.com)
 
+<p float="left">
 <img src="https://github.com/gokhanbas83/keepmypass/blob/master/assets/keepmypass-welcome-screen.png?raw=true" alt="welcome screen of keepmypass mobile application" width="150">
 <img src="https://github.com/gokhanbas83/keepmypass/blob/master/assets/keepmypass-entry-screen.png?raw=true" alt="entry screen of keepmypass mobile application" width="150">
 <img src="https://github.com/gokhanbas83/keepmypass/blob/master/assets/keepmypass-dark-theme.png?raw=true" alt="dark theme of keepmypass mobile application" width="150">
 <img src="https://github.com/gokhanbas83/keepmypass/blob/master/assets/keepmypass-password-generator.png?raw=true" alt="password generator of keepmypass mobile application" width="150">
+</p>
 
 ------------
 
