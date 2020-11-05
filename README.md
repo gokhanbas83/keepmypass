@@ -1,11 +1,17 @@
 # KeepMyPass
 
-KeepMyPass is a password manager which is written with cross platform mobile development framework Flutter using dart language.
+KeepMyPass is a mobile password manager application which is written with cross platform mobile application development framework Flutter using dart language.
 
 You can build from source files or you can install from Google Play Store
-[![](https://github.com/gokhanbas83/keepmypass/master/assets/google-play-badge.png?raw=true =161x62)](https://play.google.com/store/apps/details?id=com.gknbs.keepmypass)
 
-Website : [https://www.gknbs.com/keepmypass](https://www.gknbs.com/keepmypass)
+<a href="https://play.google.com/store/apps/details?id=com.gknbs.keepmypass"><img src="https://github.com/gokhanbas83/keepmypass/blob/master/assets/google-play-badge.png?raw=true" alt="Download KeepMyPass" width="161" height="62"></a>
+
+Website : [https://www.gknbs.com](https://www.gknbs.com)
+
+<img src="https://github.com/gokhanbas83/keepmypass/blob/master/assets/keepmypass-welcome-screen.png?raw=true" alt="welcome screen of keepmypass mobile application" width="150">
+<img src="https://github.com/gokhanbas83/keepmypass/blob/master/assets/keepmypass-entry-screen.png?raw=true" alt="entry screen of keepmypass mobile application" width="150">
+<img src="https://github.com/gokhanbas83/keepmypass/blob/master/assets/keepmypass-dark-theme.png?raw=true" alt="dark theme of keepmypass mobile application" width="150">
+<img src="https://github.com/gokhanbas83/keepmypass/blob/master/assets/keepmypass-password-generator.png?raw=true" alt="password generator of keepmypass mobile application" width="150">
 
 ------------
 
@@ -44,5 +50,3 @@ There is no usage limitation in KeepMyPass application. Users can use all featur
 - Spanish
 - French
 - Portuguese
-
-###End
